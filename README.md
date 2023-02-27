@@ -1,6 +1,12 @@
 # knapsack-problem
 Python Genetic Algorithm Solution by Justin Ventura
 
+###### Run it yourself!
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
 ---
 ## How it works:
 
